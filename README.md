@@ -48,7 +48,5 @@ The fine-tuned model is available here:
 👉 [https://huggingface.co/Gunavant07/Llama-2-7b-chat-finetune-1](#)
 
 ## 📁 Repo Structure
-├── data/ # Dataset (or download script)
-├── notebooks/ # Training/fine-tuning notebook
-├── scripts/ # Training & inference scripts
+├── finetune-llama2-demo_hf.ipynb   # Full fine-tuning notebook (Kaggle)
 ├── README.md
